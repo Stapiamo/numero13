@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Numero13</string>
+    <string name="Nombre">Historia de pusheen</string>
+    <string name="boton">Comenzar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="boton2">Ir a la pagina de Inicio</string>
+    <string name="Retorno">Ir al Inicio</string>
+</resources>
